@@ -38,7 +38,7 @@ Based on these information, we can consider under different condition of the thr
 
 ### Test Result of HS300 index
 1 to 8 is the different group. 9 is the combination of group 5 and 6. 0 is the combination of group 4 and 6.  
-![](https://ws3.sinaimg.cn/large/0069RVTdgy1ftuh0bgtzyj30re0fk3zs.jpg)
+![](https://ws3.sinaimg.cn/large/0069RVTdgy1ftuh0bgtzyj30re0fk3zs.jpg)  
 According to the photo and form, we can see no group or combination perform better than the hs300 index. However, if we focus on the time before the big plunge in 2015, we can find the group 4 and 5 is suitable for the phase of rising, and the group 6 is good in the stationary moment. That is worthy for thinking deeply.  
 However, I once read a similar strategy, which has a little better result. 
 
