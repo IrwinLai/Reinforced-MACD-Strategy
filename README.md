@@ -49,6 +49,8 @@ We simply analyz the group 1 and 4.
 The group 1 means the DIF, MACD and dMACD are all positive. Hence, these stocks are easily capture the opportunity of quickly accelerated rising.   
 - Group 4  
 The group 4 means the DIF and MACD are positive, and the dMACD is negative. So the stocks are in the rising trend with increasing velocity. However the acceleration is becoming slow. So that could be a steady increasement.
+  
+So, these indicators can be a good method to judge the phase of market, is it rising or decreasing? In this case, when these indicators combine with other strategies, they could have a better performance.
 
 ### Other Test
 - ZZ500
