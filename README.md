@@ -4,6 +4,8 @@ The stock strategy based on the combination of DIF, MACD and MACD%
 ### Abstract
 The Advanced MACD strategy is based on some MACD indicators. According to these indicators, we can divide the stock into 8 gruops, and then rolling purchase these different groups.
 
+### Background
+As we know, MACD is a useful middle term indicator, which can tell the trend of price. When MACD > 0, the stock's price will constantly rise probably. In this case, sometimes, MACD is assumed the acceleration of the velocity of the price. So, what about the differential coefficient of the MACD. What if we combine this derivative indicators together?
 
 ### About the Strategy
 - Theroy of MACD
