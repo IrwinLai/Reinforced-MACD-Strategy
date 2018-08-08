@@ -1,6 +1,7 @@
 ## Reinforced-MACD-Strategy
 The stock strategy based on the combination of DIF, MACD and MACD%
-
+  
+  
 ### Abstract
 The Advanced MACD strategy is based on some MACD indicators. According to these indicators, we can divide the stock into 8 gruops, and then rolling purchase these different groups.
 
@@ -35,13 +36,15 @@ Based on these information, we can consider under different conditions of the th
 3. Rolling purchase each group one by one in each weight and keep the stock for 5 days.
 4. For the suspended stocks we are keeping, we will sell them after 5 trading day, and we will not buy the stock, which is suspending.
 5. Consider the trade fee of 0.01% for buying and selling.
-
+  
+  
 ### Test Result of HS300 index
 1 to 8 is the different group. 9 is the combination of group 5 and 6. 0 is the combination of group 4 and 6.  
 ![](https://ws3.sinaimg.cn/large/0069RVTdgy1ftuh0bgtzyj30re0fk3zs.jpg)
 According to the photo and form, we can see no group or combination perform better than the hs300 index. However, if we focus on the time before the big plunge in 2015, we can find the group 4 and 5 are suitable for the phase of rising, and the group 6 is good in the stationary moment. That is worthy for thinking deeply.  
 However, I once read a similar strategy, which has a little better result. 
-
+  
+  
 ### Analysis
 We simply analyze the group 1 and 4.
 
@@ -57,6 +60,3 @@ So, these indicators can be a good method to judge the phase of market, is it ri
 ![](https://ws3.sinaimg.cn/large/0069RVTdgy1ftujldrsz3j30qg0emmxz.jpg)
 
 
-
-
- 
