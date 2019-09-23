@@ -1,5 +1,6 @@
 ## Reinforced-MACD-Strategy
-The stock strategy based on the combination of DIF, MACD and MACD%
+Personal idea after research MACD indicator.  
+This stock strategy based on the combination of DIF, MACD and MACD%, and test by recent years' data
   
   
 ### Abstract
